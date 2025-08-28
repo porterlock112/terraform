@@ -1,4 +1,4 @@
-# Terraform
+Terraform
 
 - Website: https://developer.hashicorp.com/terraform
 - Forums: [HashiCorp Discuss](https://discuss.hashicorp.com/c/terraform-core)
